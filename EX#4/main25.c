@@ -10,9 +10,23 @@ int multi(int i,int j){
     }
 }
 int main(){
-       for(int i=1;i<=9;i++){
-       multi(i,9);
-       printf("\n");
-       }
+        multi(1,9);
+        printf("\n");
+        multi(2,9);
+        printf("\n");
+        multi(3,9);
+        printf("\n");
+        multi(4,9);
+        printf("\n");
+        multi(5,9);
+        printf("\n");
+        multi(6,9);
+        printf("\n");
+        multi(7,9);
+        printf("\n");
+        multi(8,9);
+        printf("\n");
+        multi(9,9);
+        printf("\n");
         return 0;
     }
